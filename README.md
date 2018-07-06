@@ -1,0 +1,2 @@
+# quine
+Experiments with quines
